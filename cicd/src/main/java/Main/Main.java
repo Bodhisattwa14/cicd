@@ -5,5 +5,6 @@ public class Main {
 	System.out.println("Hi!, hello there");
 	System.out.println("Master");
 	System.out.println("Added one more file");
+	System.out.println("With pipeline");
 	}
 }
